@@ -9,6 +9,8 @@
  
  :dependencies '[[org.clojure/clojure "RELEASE"]
 
+                 [com.rpl/specter "0.13.0"]
+
                  ;; Environment
                  [environ "1.1.0"]
                  [boot-environ "1.1.0"]
